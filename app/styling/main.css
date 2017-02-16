@@ -1,0 +1,14 @@
+body {
+    font: 400 15px Lato, sans-serif;
+    line-height: 1.8;
+    background-color: #068977;
+}
+
+.main-logo {
+    padding: 4%;
+    text-align: center;
+}
+
+.main-text {
+    text-align: center;
+}
