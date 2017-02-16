@@ -1,22 +1,23 @@
 {
-  "name": "niobi-general-web-application",
-  "version": "1.0.0",
-  "description": "Main web application to be used as entry point for general product information, branding, and marketing.",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/FrescoDev/niobi-general-web-application.git"
-  },
-  "author": "frescoDev",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/FrescoDev/niobi-general-web-application/issues"
-  },
-  "homepage": "https://github.com/FrescoDev/niobi-general-web-application#readme",
-  "dependencies": {
-    "express": "^4.14.1"
-  }
+    "name": "niobi-general-web-application",
+    "version": "1.0.0",
+    "description": "Main web application to be used as entry point for general product information, branding, and marketing.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/FrescoDev/niobi-general-web-application.git"
+    },
+    "author": "frescoDev",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/FrescoDev/niobi-general-web-application/issues"
+    },
+    "homepage": "https://github.com/FrescoDev/niobi-general-web-application#readme",
+    "dependencies": {
+        "express": "^4.14.1"
+    }
 }
